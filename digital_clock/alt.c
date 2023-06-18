@@ -1,3 +1,4 @@
+// Thia code prints out the precise time of your given country
 #include <stdio.h>
 #include <time.h>
 #include <unistd.h> // For sleep() function
