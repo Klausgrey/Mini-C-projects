@@ -35,7 +35,7 @@ int main()
             h = 1;
           }
           printf("\n Clock: ");
-          printf("\n%02d:%02d:%02d:", h, m, s);
+          printf("\n%02d:%02d:%02d:\n", h, m, s);
           sleep(d);
           system("clear");
         }
