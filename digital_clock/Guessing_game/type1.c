@@ -13,7 +13,7 @@ int main() {
     /** Initialize the random number generator **/
     srand(time(NULL));
 
-    // Generate a random number between 1 and 100
+    // Generate a random number between 1 and 10
     numberToGuess = rand() % 10 + 1;
 
     printf("Welcome to the Number Guessing Game!\n");
